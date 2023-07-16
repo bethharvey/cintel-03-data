@@ -1,8 +1,14 @@
 # Continuous Intelligence and Interactive Analytics - Working With Data
 
-- Interactive app: [cintel-03-data](https://denisecase.shinyapps.io/cintel-03-data/) - see MT Cars tab and Penguins tab
-- Repository: [cintel-03-data](https://github.com/denisecase/cintel-03-data)
-- Author: [Denise Case](https://github.com/denisecase)
+- Interactive app: [cintel-03-data](https://bethharvey.shinyapps.io/cintel-03-data/) - see MT Cars tab and Penguins tab
+- Repository: [cintel-03-data](https://github.com/bethharvey/cintel-03-data)
+- Author: [Beth Harvey](https://github.com/bethharvey)
+
+## Module 3
+* Beth Harvey
+* July 8, 2023
+
+The goal of this project is to incorporate new data sources into an interactive app.
 
 This time, we add data. 
 Two very common types of data are Excel data and CSV (comma-separated values) data.

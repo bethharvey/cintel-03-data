@@ -40,6 +40,10 @@ flights_df.to_csv(data_folder.joinpath("flights.csv"))
 mtcars_df = pd.read_csv(data_folder.joinpath("mtcars.csv"))
 mtcars_df.to_excel(data_folder.joinpath("mtcars.xlsx"))
 
+iris_df = sns.load_dataset("iris")
+iris_df.to_excel(data_folder.joinpath("iris.xlsx"))
+penguins_df.to_csv(data_folder.joinpath("penguins.csv"))
+
 
 # url="https://webpath/to/your/data.csv"
 # df=pd.read_csv(url)
